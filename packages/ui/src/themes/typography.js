@@ -17,24 +17,28 @@ export default function themeTypography(theme) {
             fontWeight: 500
         },
         h4: {
-            fontSize: '1rem',
-            color: theme.heading,
-            fontWeight: 600
-        },
-        h3: {
             fontSize: '1.25rem',
             color: theme.heading,
-            fontWeight: 600
+            fontWeight: 600,
+            letterSpacing: '-0.005em'
         },
-        h2: {
+        h3: {
             fontSize: '1.5rem',
             color: theme.heading,
-            fontWeight: 700
+            fontWeight: 600,
+            letterSpacing: '-0.01em'
+        },
+        h2: {
+            fontSize: '2rem',
+            color: theme.heading,
+            fontWeight: 700,
+            letterSpacing: '-0.01em'
         },
         h1: {
-            fontSize: '2.125rem',
+            fontSize: '2.5rem',
             color: theme.heading,
-            fontWeight: 700
+            fontWeight: 700,
+            letterSpacing: '-0.02em'
         },
         subtitle1: {
             fontSize: '0.875rem',

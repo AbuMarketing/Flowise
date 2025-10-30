@@ -104,7 +104,7 @@ const dashboard = {
                 },
                 {
                     id: 'marketplaces',
-                    title: 'Marketplaces',
+                    title: 'Templates Hub',
                     type: 'item',
                     url: '/marketplaces',
                     icon: icons.IconBuildingStore,

@@ -1,19 +1,19 @@
 // paper & background
 $paper: #ffffff;
 
-// primary
-$primaryLight: #e3f2fd;
-$primaryMain: #2196f3;
-$primaryDark: #1e88e5;
-$primary200: #90caf9;
-$primary800: #1565c0;
+// primary - InstaAgents Brand
+$primaryLight: #d4bff8;
+$primaryMain: #8c54fb;
+$primaryDark: #7340e0;
+$primary200: #b89ef5;
+$primary800: #6a2fd9;
 
-// secondary
-$secondaryLight: #ede7f6;
-$secondaryMain: #673ab7;
-$secondaryDark: #5e35b1;
-$secondary200: #b39ddb;
-$secondary800: #4527a0;
+// secondary - InstaAgents Brand
+$secondaryLight: #f3d9f0;
+$secondaryMain: #cb6ce6;
+$secondaryDark: #b855d1;
+$secondary200: #e0a8f0;
+$secondary800: #a03cb8;
 
 // success Colors
 $successLight: #cdf5d8;
@@ -42,7 +42,7 @@ $warningMain: #ffe57f;
 $warningDark: #ffc107;
 
 // grey
-$grey50: #fafafa;
+$grey50: #f7f8ff;
 $grey100: #f5f5f5;
 $grey200: #eeeeee;
 $grey300: #e0e0e0;
@@ -57,27 +57,27 @@ $transparent: #ffffff00;
 
 // ==============================|| DARK THEME VARIANTS ||============================== //
 
-// paper & background
-$darkBackground: #191b1f;
-$darkPaper: #191b1f;
+// paper & background - InstaAgents Dark
+$darkBackground: #1a1a1e;
+$darkPaper: #1a1a1e;
 
 // dark 800 & 900
-$darkLevel1: #252525; // level 1
-$darkLevel2: #242424; // level 2
+$darkLevel1: #252529; // level 1
+$darkLevel2: #2a2a2e; // level 2
 
-// primary dark
-$darkPrimaryLight: #23262c;
-$darkPrimaryMain: #23262c;
-$darkPrimaryDark: #191b1f;
-$darkPrimary200: #c9d4e9;
-$darkPrimary800: #32353b;
+// primary dark - InstaAgents Brand
+$darkPrimaryLight: #2a2a2e;
+$darkPrimaryMain: #8c54fb;
+$darkPrimaryDark: #1a1a1e;
+$darkPrimary200: #d4bff8;
+$darkPrimary800: #32323a;
 
-// secondary dark
-$darkSecondaryLight: #454c59;
-$darkSecondaryMain: #7c4dff;
+// secondary dark - InstaAgents Brand
+$darkSecondaryLight: #3a3a42;
+$darkSecondaryMain: #cb6ce6;
 $darkSecondaryDark: #ffffff;
-$darkSecondary200: #32353b;
-$darkSecondary800: #6200ea;
+$darkSecondary200: #32323a;
+$darkSecondary800: #a03cb8;
 
 // text variants
 $darkTextTitle: #d7dcec;
